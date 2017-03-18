@@ -255,7 +255,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	MyArray->PrintShortestWords();
 
 
-	free(MyArray);
+	delete MyArray;
 	free(text);
 	getch();
 	return 0;
