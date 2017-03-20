@@ -1,0 +1,6 @@
+E:\labs\sem2\labs C\lab5\lab5\bin\Debug\lab5.exe.config
+E:\labs\sem2\labs C\lab5\lab5\obj\Debug\lab5.csprojResolveAssemblyReference.cache
+E:\labs\sem2\labs C\lab5\lab5\bin\Debug\lab5.exe
+E:\labs\sem2\labs C\lab5\lab5\bin\Debug\lab5.pdb
+E:\labs\sem2\labs C\lab5\lab5\obj\Debug\lab5.exe
+E:\labs\sem2\labs C\lab5\lab5\obj\Debug\lab5.pdb
