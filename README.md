@@ -10,3 +10,5 @@
 4-я лаба 2-ое задание(код в файле lab4 task2.cpp, файлы text.txt, dictionary.txt и NewText.txt в папке Debuug\Win32)
 
 5-я лаба
+
+6-я лаба
