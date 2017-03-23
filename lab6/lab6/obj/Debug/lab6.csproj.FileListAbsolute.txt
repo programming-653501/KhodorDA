@@ -1,0 +1,6 @@
+E:\labs\sem2\labs C\lab6\lab6\lab6\bin\Debug\lab6.exe.config
+E:\labs\sem2\labs C\lab6\lab6\lab6\obj\Debug\lab6.csprojResolveAssemblyReference.cache
+E:\labs\sem2\labs C\lab6\lab6\lab6\bin\Debug\lab6.exe
+E:\labs\sem2\labs C\lab6\lab6\lab6\bin\Debug\lab6.pdb
+E:\labs\sem2\labs C\lab6\lab6\lab6\obj\Debug\lab6.exe
+E:\labs\sem2\labs C\lab6\lab6\lab6\obj\Debug\lab6.pdb
