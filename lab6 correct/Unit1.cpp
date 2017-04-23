@@ -88,6 +88,8 @@ void __fastcall TForm1::AddButtonClick(TObject *Sender)
 		FindButton -> Enabled = true;
 		BalanceButton -> Enabled = true;
 		Add1Button -> Enabled = true;
+		PushButton -> Enabled = true;
+		PopButton -> Enabled = true;
 
 		AddButton -> Enabled = false;
 	}
