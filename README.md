@@ -10,8 +10,10 @@
 
 4-я лаба 1-е задание (файл LAB4 TASK1.cpp)
 
-4-я лаба 2-ое задание(код в файле lab4 task2.cpp, файлы text.txt, dictionary.txt и NewText.txt в папке Debuug\Win32)
+4-я лаба 2-ое задание(код в файле lab4 task2.cpp, файлы text.txt, dictionary.txt и NewText.txt в папке Debug\Win32)
 
 5-я лаба
 
 6-я лаба (папка lab6 correct)
+
+7-я лаба( приложение Database.exe и файлы car_database.txt, client_database.txt в папке Debug lab 7\Win32, файлы с кодом в папке code lab 7)
