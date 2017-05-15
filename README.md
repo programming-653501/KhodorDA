@@ -17,3 +17,5 @@
 6-я лаба (папка lab6 correct)
 
 7-я лаба( приложение Database.exe и файлы car_database.txt, client_database.txt в папке Debug lab 7\Win32, файлы с кодом в папке code lab 7)
+
+КУРСОВОЙ ПРОЕКТ - папка Archiver
